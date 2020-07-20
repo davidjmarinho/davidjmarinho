@@ -3,7 +3,7 @@
 Web Application Developer.
 
 [![Twitter Badge](https://img.shields.io/badge/-@davidjmarinho-f65e05?style=flat-square&labelColor=f65e05&logo=twitter&logoColor=white&link=https://twitter.com/davidjmarinho)](https://twitter.com/davidjmarinho) 
-[![Linkedin Badge](https://img.shields.io/badge/-David%20Pereira-f65e05?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-j-m-pereira)](https://https://www.linkedin.com/in/david-j-m-pereira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-David%20Pereira-f65e05?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-j-m-pereira)](https://www.linkedin.com/in/david-j-m-pereira/) 
 [![Gmail Badge](https://img.shields.io/badge/-davidjmarinhopereira@gmail.com-f65e05?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidjmarinhopereira@gmail.com)](mailto:davidjmarinhopereira@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
