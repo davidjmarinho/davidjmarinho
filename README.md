@@ -7,6 +7,7 @@ Web Application Developer.
 [![Gmail Badge](https://img.shields.io/badge/-davidjmarinhopereira@gmail.com-f65e05?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidjmarinhopereira@gmail.com)](mailto:davidjmarinhopereira@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
+
 Passionate about learning day after day and always becoming a little bit more patient every days. Giving back to life all the good things i've had already received. 
 
 
